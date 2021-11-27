@@ -16,7 +16,7 @@ module.exports = nativeDescription: "Türkçe", englishDescription: "Turkish", t
 #    built_for_teachers_subblurb3: "Using HTML, CSS, and jQuery, learners flex their creative muscles to program their own webpages with a custom URL to share with their classmates."
     century_skills_title: "21.Yüzyılın Yetenekleri"
     century_skills_blurb1: "Öğrenciler Sadece Kahramanlarının Seviyelerini Arttırmazlar, Kendi Seviyelerini Arttırırlar"
-#    century_skills_quote1: "You mess up…so then you think about all of the possible ways to fix it, and then try again. I wouldn't be able to get here without trying hard."
+    century_skills_quote1: "Batırdın…böylece düzeltmek için olabilecek her yolu düşüneceksin ve yeniden deneyeceksin. Çok çalışmasam bu noktaya gelemezdim.."
     century_skills_subtitle1: "Eleştirel Düşünme"
 #    century_skills_subblurb1: "With coding puzzles that are naturally scaffolded into increasingly challenging levels, CodeCombat's programming game ensures kids are always practicing critical thinking."
 #    century_skills_quote2: "Everyone else was making mazes, so I thought, ‘capture the flag’ and that’s what I did."
